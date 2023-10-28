@@ -8,7 +8,10 @@
 <h2>📄 Certifications:</h2>
 
 - <b>CompTIA</b>
-  - [CySA+](https://github.com/)
+  - [CySA+](https://drive.google.com/file/d/12kycakf6wBi7EwGyzZh7a3VykVn1DTSp/view?usp=drive_link)
+  - [Security+](https://drive.google.com/file/d/13xr1Gu63yLUsdt_KXonVHlZh73C34Rwp/view?usp=drive_link)
+  - [Network+](https://drive.google.com/file/d/1ayGek6tFMo4yWCVEWXm0arlgYvka7Fx4/view?usp=drive_link)
+  - [A+](https://drive.google.com/file/d/1EnW4QMqcO0XspMSFzPvd-k_JjJ181YKp/view?usp=drive_link)
 
 
 <h2>📺 Popular YouTube Videos</h2>
