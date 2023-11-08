@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Implementing a SIEM and Honeypot in Azure</b>
-  - [Cloud SIEM and Honeypot]([https://github.com/](https://github.com/nicoSec/AzureSIEMLab))
+  - [Cloud SIEM and Honeypot](https://github.com/nicoSec/AzureSIEMLab)
 
 <h2>📄 Certifications:</h2>
 
