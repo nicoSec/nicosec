@@ -12,7 +12,7 @@
   - [Security+](https://www.credly.com/badges/d441a7cf-f682-4f1f-ab8a-be782368c9ae/public_url)
   - [Network+](https://www.credly.com/badges/361cddd4-d090-45d1-a961-a7350c32cf6e/public_url)
 - <b>AWS</b>
-  - [A+](https://www.credly.com/badges/4f1557c6-754a-49c8-a975-0b3fd506a3da/public_url)
+  - [Cloud Practitioner](https://www.credly.com/badges/4f1557c6-754a-49c8-a975-0b3fd506a3da/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
