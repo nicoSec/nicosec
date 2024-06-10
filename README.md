@@ -4,6 +4,8 @@
 
 - <b>Implementing a SIEM and Honeypot in Azure</b>
   - [Cloud SIEM and Honeypot](https://github.com/nicoSec/AzureSIEMLab)
+- <b>Making a Travel VPN Router w/ Wifi AP</b>
+  - [VPN Router](https://github.com/nicoSec/TravelRouter)
 
 <h2>📄 Certifications:</h2>
 
